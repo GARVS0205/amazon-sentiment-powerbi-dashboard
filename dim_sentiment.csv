@@ -1,0 +1,4 @@
+sentiment_label,sort_order,color_hex
+Positive,1,#2ECC71
+Neutral,2,#F39C12
+Negative,3,#E74C3C
