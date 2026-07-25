@@ -53,7 +53,6 @@ AI Decomposition Tree, Key Influencers, dynamic metric line chart (Field Paramet
 | Pareto Analysis | 80/20 rule — top N products by review volume with cumulative % line |
 | Running Total DAX | Cumulative review growth measure |
 | Conditional Formatting | Data bars, background color rules, gradient bars |
-| What-If Parameter | Top N products slider |
 | Performance Optimization | All visuals load under 530ms on 100K rows |
 | Star Schema | Proper dimensional model with 3 Many-to-One relationships |
 
